@@ -8,5 +8,5 @@ For usage anywhere, add the directory which its in to your `$PATH` or cp to `/us
 
 ## Usage
 ```sh
-genexp.py [-h] --binary BINARY [--remote REMOTE] [-port PORT] [--libc LIBC] [--arch ARCH]
+genexp.py [-h] --binary/-b BINARY [--remote/-ip REMOTE] [-port/-p PORT] [--libc/-l LIBC] [--arch/-a ARCH]
 ```
